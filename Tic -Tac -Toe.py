@@ -98,6 +98,3 @@ while True:
     
     if not replay():
               break
-
-print("\nAuthor: Arin Khatua\nVersion: 1.0\nThanks for playing!")
-rand = input("")
